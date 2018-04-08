@@ -11,6 +11,8 @@ additional configuration.
 
 However, [datomic documentation](https://docs.datomic.com/on-prem/getting-started/connect-to-a-database.html#leiningen) looks quite straightforward.
 
+I've checked it with `lein new app` and it worked like a charm.
+
 ## Setup
 
 To reproduce the unexpected behaviour, run
