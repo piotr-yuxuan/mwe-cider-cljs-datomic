@@ -10,7 +10,8 @@
 
   :dependencies [[org.clojure/clojure "1.9.0"]
                  [org.clojure/clojurescript "1.9.946"]
-                 [org.clojure/core.async  "0.4.474"]]
+                 [org.clojure/core.async  "0.4.474"]
+                 [com.datomic/datomic-free "0.9.5697"]]
 
   :plugins [[lein-figwheel "0.5.15"]
             [lein-cljsbuild "1.1.7" :exclusions [[org.clojure/clojure]]]]
